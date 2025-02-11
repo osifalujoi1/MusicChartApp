@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MusicChartAndPlaylistGenerator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4679e143-b7ce-4a35-8f12-08495102b515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MusicChartAndPlaylistGenerator_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RUNNING_PID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/jpro.activity.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/jpro.console.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/jpro.error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/jpro.info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/jpro.warn.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/example/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jpro.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo/css/Demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo/js/Demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/demo/PlaylistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/PlaylistController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/demo/playlist-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/demo/playlist-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/jpro.conf" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2snGUcVr7sGekuiQ3SCoT8jUUCu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
+    "Application.MusicPlaylistManager.executor": "Debug",
+    "Application.PlaylistApplication.executor": "Debug",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Java Scratch.SurroundAndUnwrapDemo.executor": "Debug",
+    "Maven.MusicChartAndPlaylistGenerator [org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy-file].executor": "Run",
+    "Maven.MusicChartAndPlaylistGenerator [org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy].executor": "Run",
+    "Maven.MusicChartAndPlaylistGenerator [org.apache.maven.plugins:maven-deploy-plugin:2.7:help].executor": "Run",
+    "Maven.MusicChartAndPlaylistGenerator [org.apache.maven.plugins:maven-site-plugin:3.3:stage-deploy].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/peaceosifalujo/Documents/MusicChartAndPlaylistGenerator",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/org/example/demo" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MusicPlaylistManager">
+    <configuration name="MusicPlaylistManager" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.PlaylistApplication" />
+      <module name="MusicChartAndPlaylistGenerator" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PROJECT_DIR$/javafx-sdk-23.0.2/lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurroundAndUnwrapDemo" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SurroundAndUnwrapDemo" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Learning.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MusicPlaylistManager" />
+      <item itemvalue="Java Scratch.SurroundAndUnwrapDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Java Scratch.SurroundAndUnwrapDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4679e143-b7ce-4a35-8f12-08495102b515" name="Changes" comment="" />
+      <created>1739083944710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739083944710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
